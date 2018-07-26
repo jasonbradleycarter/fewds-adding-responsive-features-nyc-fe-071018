@@ -1,6 +1,8 @@
 #social {
   position: absolute;
   margin: 82px 4px 0px 0px;
+  background: red;
+
 }
 
 
@@ -39,7 +41,6 @@
   #social {
     top: 72px;
     background: red;
-
   }
 }
 
