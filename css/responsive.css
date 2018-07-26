@@ -22,6 +22,10 @@
   .border-right{
     border: 0px;
   }
+  
+  #details {
+    height: auto;
+  }
 }
 
 @media only screen and (max-width:900px) {
