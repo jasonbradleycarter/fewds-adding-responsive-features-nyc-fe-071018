@@ -4,7 +4,9 @@
 }
 
 @media only screen and (max-width:750px) {
-  #navbar
+  #navbar {
+    
+  }
 }
 
 @media only screen and (max-width:900px) {
